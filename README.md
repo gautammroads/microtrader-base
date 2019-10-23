@@ -30,6 +30,7 @@ $ git checkout final
 Switched to branch 'final'
 $ git checkout master
 Switched to branch 'master'
+
 ```
 
 ## Repository Timeline
